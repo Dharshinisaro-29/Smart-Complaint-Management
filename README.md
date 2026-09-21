@@ -67,15 +67,25 @@ The application was tested by registering a new complaint and tracking it using 
 ## Screenshots
 ### Complaint registration page
 <img width="1917" height="976" alt="frontend page" src="https://github.com/user-attachments/assets/3ce7b547-a29f-46cd-8ec7-b7db30a17b26" />
+
 ## Successful registration
+
 <img width="1912" height="907" alt="result_user" src="https://github.com/user-attachments/assets/6e5d0451-7404-45a9-bc5a-eca47e9a3178" />
+
 ## Complaint tracking result
+
 <img width="1916" height="892" alt="track complaint screenshot" src="https://github.com/user-attachments/assets/eeb486fa-ba47-4f9e-9447-b773c6e40060" />
+
 ## DynamoDB table
+
 <img width="1917" height="842" alt="dynamoDB resut" src="https://github.com/user-attachments/assets/7f3c65c5-abb4-4f62-b7a7-14c7f00d409e" />
+
 ## API Gateway
+
 <img width="1917" height="762" alt="image" src="https://github.com/user-attachments/assets/1d6e09e4-10db-421b-9bfc-bed190037a53" />
+
 ## Lambda functions
+
 <img width="1911" height="871" alt="image" src="https://github.com/user-attachments/assets/e1ff4ed7-0f07-493f-8fe3-f062356daf98" />
 
 <img width="1917" height="857" alt="image" src="https://github.com/user-attachments/assets/195d0319-dbc3-4cdd-bc8a-181d4f0b4026" />
